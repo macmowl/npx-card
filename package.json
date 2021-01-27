@@ -1,0 +1,26 @@
+{
+  "name": "macmowl",
+  "version": "1.0.3",
+  "description": "Simple npx car to introduce myself",
+  "main": "index.js",
+  "bin": {
+    "macmowl": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macmowl/npx-card.git"
+  },
+  "author": "Alan Massaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macmowl/npx-card/issues"
+  },
+  "homepage": "https://github.com/macmowl/npx-card#readme",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0"
+  }
+}
